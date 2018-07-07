@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://annualring.top/2018/07/03/study/</loc>
+    <lastmod>2018-07-05T07:30:02.718Z</lastmod>
+    <data>
+        <display>
+        <title>学习计划</title>
+        <pubTime>2018-07-03T02:58:13.000Z</pubTime>
+        
+        <tag>study</tag>
+         
+        <tag>plan</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://annualring.top/2018/06/17/PAF/</loc>
+    <lastmod>2018-07-05T07:29:31.723Z</lastmod>
+    <data>
+        <display>
+        <title>Realtime Multi-person 2D Pose Estimation using PAF</title>
+        <pubTime>2018-06-17T12:11:28.000Z</pubTime>
+        
+        <tag>姿态估计</tag>
+         
+         
+           
+             
+              <breadCrumb title="小论文" url="https://annualring.top/categories/%E5%B0%8F%E8%AE%BA%E6%96%87/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://annualring.top/2018/06/17/action/</loc>
+    <lastmod>2018-07-05T03:20:23.962Z</lastmod>
+    <data>
+        <display>
+        <title>行为识别</title>
+        <pubTime>2018-06-17T12:11:28.000Z</pubTime>
+        
+        <tag>LSTM</tag>
+         
+        <tag>行为识别</tag>
+         
+         
+           
+             
+              <breadCrumb title="小论文" url="https://annualring.top/categories/%E5%B0%8F%E8%AE%BA%E6%96%87/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://annualring.top/2018/06/26/road/</loc>
+    <lastmod>2018-07-02T03:27:05.948Z</lastmod>
+    <data>
+        <display>
+        <title>前方的路</title>
+        <pubTime>2018-06-26T12:18:42.000Z</pubTime>
+        
+        <tag>road</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://annualring.top/2018/05/26/Hello%20World/</loc>
+    <lastmod>2018-06-30T02:31:17.551Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-05-26T12:18:42.000Z</pubTime>
+        
+        <tag>Test</tag>
+         
+        <tag>LSTM</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
